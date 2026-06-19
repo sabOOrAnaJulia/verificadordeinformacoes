@@ -18,10 +18,22 @@ main{
 .cabecalho{
  color: aquamarine;
  padding: 15px 25px;
-
+ display:flex;
+ justify-content: space-between;
+ align-items: center;
+ background-color: aqua;
 }
 
+.cartao{
 
+ width: 260px;
+ height: 200px;
+}
+
+.cartao-imagem{  
+
+  width: 100%;
+}
 
 
 
